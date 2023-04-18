@@ -1,2 +1,1 @@
-# Códigos de atividades e desafios do [beecrowd](https://www.beecrowd.com.br
-) 
+# Códigos de atividades e desafios do [beecrowd](https://www.beecrowd.com.br) 
